@@ -12,6 +12,10 @@ body {
     color: #d3325f;
 }
 
+.secondary-color {
+    color: black
+}
+
 .info h2 {
     word-spacing: 0.6rem
 }
@@ -112,6 +116,7 @@ body {
 }
 
 .header-link {
+    margin-left: 7rem;
     color: #242424;
 }
 
